@@ -33,4 +33,4 @@ const flatten = function(arr) {
   return output;
 }
 
-console.log(flatten([1,[2,[3]]])); // [1,2]
+console.log(flatten([1,[2,[3,[4,5,6,7]]]])); // [1,2,3,4,5,6,7]
