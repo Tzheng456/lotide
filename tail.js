@@ -1,5 +1,3 @@
-let emoji = require("node-emoji");
-// const assertEqual = require("./")
 // TAIL FUNCTION IMPLEMENTATION
 const tail = function (arr) {
   let tailArr = [];
