@@ -40,3 +40,5 @@ const checkIfObject = (arg) => {
   }
   return false;
 };
+
+module.exports = eqObjects;
