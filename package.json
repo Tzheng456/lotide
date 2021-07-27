@@ -2,7 +2,7 @@
   "name": "@tzheng/lotide1",
   "description": "a library of useful functions based on the lodash library",
   "author": "Tim Zheng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "mocha"
   },
